@@ -23,4 +23,9 @@ for i in names:
 all_fund = reduce(lambda x,y:x.append(y),funds)
 
 all_fund.to_csv(u"C:\\Users\\fisher\\Desktop\\330家投顾的基金.csv",encoding="gbk")
-all_fund.to_csv(u"C:\\Users\\fisher\\Desktop\\330家投顾的基金2.csv",encoding="gbk")
+
+
+
+import thread
+
+
