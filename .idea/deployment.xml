@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tx">
+    <serverData>
+      <paths name="Copy of project-level server 'tx'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/files" local="$PROJECT_DIR$/../remote" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tx">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/files" local="$PROJECT_DIR$/../remote" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
